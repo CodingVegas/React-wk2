@@ -1,0 +1,28 @@
+h2 { 
+  font-family: broadway;
+}
+
+* {
+  background-color: rgb(195, 195, 190);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  float: left;
+  flex-basis: 40%;
+  max-width: 100%
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
